@@ -1,0 +1,1 @@
+fazer um classificador de texto (análise de sentimento e afins) onde você tem um dataset com textos e suas respectivas categorias daí você transforma esses textos em vetores e aí usa um algoritmo de classificação do scikit-learn, por exemplo

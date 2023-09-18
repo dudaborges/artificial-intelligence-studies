@@ -1,0 +1,14 @@
+.pytest_cache
+__pycache__/
+
+.env.local
+.env.*.local
+my_venv
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
